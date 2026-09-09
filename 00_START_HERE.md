@@ -14,16 +14,17 @@ Everything in this folder is written to be read straight through. There is no fi
 | 4 | `Project_04_ModeOS.md` | Linux mode manager: pluggable backends, process control, state restoration | **Highest** |
 | 5 | `Cybersecurity_Domain.md` | The domain you are choosing — foundations, crypto, network, appsec, forensics, offensive | **Highest** |
 | 6 | `General_HR_and_Hobbies.md` | Introduce yourself, strengths, weaknesses, CGPA question, photography, forensics interest | **Highest** |
-| 7 | `Computer_Networks_Interview_Prep.md` | OSI/TCP-IP, TCP/UDP, DNS, HTTP, TLS, subnetting, 36 Q&A | High |
-| 8 | `OS_Interview_Prep.md` | Processes, scheduling, deadlock, memory, paging, 42 Q&A | High |
-| 9 | `DBMS_Interview_Prep.md` | Normalization, ACID, indexing, transactions, SQL patterns, 36 Q&A | High |
-| 10 | `OOPS_Interview_Prep.md` | Four pillars, SOLID, patterns, 35 Q&A | High |
-| 11 | `Skill_01_Programming_Languages.md` | C, C++, Python, Java, JavaScript, SQL, Bash | High |
-| 12 | `Misc_01_DSA_and_Coding_Basics.md` | Complexity, data structures, algorithms, 38 practice problems, how to handle a coding question | High |
-| 13 | `Skill_04_Libraries_Frameworks.md` | React, Node, Express, Judge0, Ollama, Chart.js | Medium |
-| 14 | `Skill_05_Databases_and_Core_Domains.md` | Oracle, MySQL, MongoDB, AI, ML, Information Security | Medium |
-| 15 | `Skill_03_Developer_Tooling.md` | Git and GitHub — model, commands, merge vs rebase, undoing | Medium |
-| 16 | `Skill_02_Operating_Environments.md` | Linux, macOS, Windows as environments you work in | Medium |
+| 7 | `Misc_02_Question_Bank.md` | Four tiers: obvious questions, linking questions across topics, blind spots in your own work, and curveballs/ethics | **Highest** |
+| 8 | `Computer_Networks_Interview_Prep.md` | OSI/TCP-IP, TCP/UDP, DNS, HTTP, TLS, subnetting, 36 Q&A | High |
+| 9 | `OS_Interview_Prep.md` | Processes, scheduling, deadlock, memory, paging, 42 Q&A | High |
+| 10 | `DBMS_Interview_Prep.md` | Normalization, ACID, indexing, transactions, SQL patterns, 36 Q&A | High |
+| 11 | `OOPS_Interview_Prep.md` | Four pillars, SOLID, patterns, 35 Q&A | High |
+| 12 | `Skill_01_Programming_Languages.md` | C, C++, Python, Java, JavaScript, SQL, Bash | High |
+| 13 | `Misc_01_DSA_and_Coding_Basics.md` | Complexity, data structures, algorithms, 38 practice problems, how to handle a coding question | High |
+| 14 | `Skill_04_Libraries_Frameworks.md` | React, Node, Express, Judge0, Ollama, Chart.js | Medium |
+| 15 | `Skill_05_Databases_and_Core_Domains.md` | Oracle, MySQL, MongoDB, AI, ML, Information Security | Medium |
+| 16 | `Skill_03_Developer_Tooling.md` | Git and GitHub — model, commands, merge vs rebase, undoing | Medium |
+| 17 | `Skill_02_Operating_Environments.md` | Linux, macOS, Windows as environments you work in | Medium |
 
 Two files exist that you did not explicitly ask for, and here is why:
 - **`Misc_01_DSA_and_Coding_Basics.md`** — nothing else in the folder covers complexity, data structures, or "how would you solve this", and that is very likely to come up in a technical round with seniors. It was the biggest actual gap.
@@ -41,6 +42,7 @@ Two files exist that you did not explicitly ask for, and here is why:
 3. `General_HR_and_Hobbies.md` — rehearse "tell me about yourself" and the CGPA answer out loud (~30 min).
 4. The Q&A sections of the four core subject files (~1.5 hours).
 5. `Misc_01_DSA_and_Coding_Basics.md` Parts 1, 5, 6 (~30 min).
+6. `Misc_02_Question_Bank.md` — Sections 2 and 3 especially (~45 min).
 
 **If you have two hours:** the four project files, plus Part 0 of the cybersecurity file, plus Part 1 of the HR file.
 
