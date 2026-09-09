@@ -216,7 +216,7 @@ These are the level actually asked in a first internship interview. Be able to e
 
 # PART 5 — How to Handle a Coding Question in an Interview
 
-The process matters as much as the answer.
+The process matters as much as the answer. **If the round is specifically "give me the brute force, then optimise it", read `Misc_03_DSA_Bruteforce_to_Optimal.md` — it expands step 4 below, which is where that round is actually won.**
 
 1. **Restate the problem** and confirm you understood it. "So given an unsorted array of integers, return the indices of two that sum to the target — and can I assume exactly one solution exists?"
 2. **Ask about constraints and edge cases before coding.** How large is n? Can the array be empty? Negative numbers? Duplicates? Is it sorted? Can I modify the input? These questions are themselves being assessed.
