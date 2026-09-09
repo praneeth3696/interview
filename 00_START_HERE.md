@@ -17,7 +17,7 @@ Everything in this folder is written to be read straight through. There is no fi
 | 7 | `Misc_02_Question_Bank.md` | Four tiers: obvious questions, linking questions across topics, blind spots in your own work, and curveballs/ethics | **Highest** |
 | 8 | `Computer_Networks_Interview_Prep.md` | OSI/TCP-IP, TCP/UDP, DNS, HTTP, TLS, subnetting, 36 Q&A | High |
 | 9 | `OS_Interview_Prep.md` | Processes, scheduling, deadlock, memory, paging, 42 Q&A | High |
-| 10 | `DBMS_Interview_Prep.md` | Normalization, ACID, indexing, transactions, SQL patterns, 36 Q&A | High |
+| 10 | `DBMS_Interview_Prep.md` | Normalization, ACID, indexing, transactions, SQL patterns, 40 Q&A | High |
 | 11 | `OOPS_Interview_Prep.md` | Four pillars, SOLID, patterns, 35 Q&A | High |
 | 12 | `Skill_01_Programming_Languages.md` | C, C++, Python, Java, JavaScript, SQL, Bash | High |
 | 13 | `Misc_01_DSA_and_Coding_Basics.md` | Complexity, data structures, algorithms, 38 practice problems, how to handle a coding question | High |
